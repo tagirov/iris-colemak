@@ -15,7 +15,7 @@
 <br />
 
 
-1. `git clone https://github.com/iris_colemak && cd iris_colemak`
+1. `git clone https://github.com/tagirov/iris_colemak && cd iris_colemak`
 
 2. Download [VIA](https://github.com/the-via/releases/releases/tag/v1.3.1)
 
