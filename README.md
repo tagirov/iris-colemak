@@ -1,6 +1,6 @@
-# iris-colemak
+<h1 align="center" id="rusk">Colemak keymapping for <a href="https://keeb.io">Iris Keyboard</a></h1>
 
-## Colemak keymappings for [Iris Keyboard](https://keeb.io)
+<br />
 
 ![](iris_colemak_layer1.jpg)
 <br />
@@ -11,7 +11,8 @@
 
 ## Setup
 
-<b>!!IMPORTANT!!</b> You need to save your default config before any operations because they cannot be undone!
+<b>Save your default configuration before making any changes. This cannot be undone.</b>
+
 <br />
 
 
@@ -19,9 +20,9 @@
 
 2. Download [VIA](https://github.com/the-via/releases/releases/tag/v1.3.1)
 
-3. Save your current mappings
+3. <b>Save your current mapping</b>
 
-4. Open your default mappings in any editor and take the value of `"vendorProductId"`
+4. Open your default mapping in any editor and take the value of `"vendorProductId"`
 
 5. Open `./iris_colemak.json` and replace `ID_HERE` by ID of your Iris
 
